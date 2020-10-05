@@ -56,7 +56,6 @@ main div a{
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
-
 }
 a {
 	color: #4a4a4a;
@@ -85,7 +84,6 @@ article {
     -webkit-box-shadow:0 1px 1px rgba(0, 0, 0, 0.3), 0 0 10px rgba(0, 0, 0, 0.1) inset;
     -moz-box-shadow:0 1px 1px rgba(0, 0, 0, 0.3), 0 0 10px rgba(0, 0, 0, 0.1) inset;
     box-shadow:0 1px 1px rgba(0, 0, 0, 0.3), 0 0 10px rgba(0, 0, 0, 0.1) inset;
-
 }
 article i{
 	font-size: 50px;
